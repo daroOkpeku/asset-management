@@ -8,10 +8,14 @@ module.exports = {
     theme: {
         extend: {
             width: {
-                '30w': '23.33%',
-                '50w':'76.67%'
+                '30w': '22.23%',
+                '50w':'77.77%',
+                '70w': '70%'
+            },
+            borderWidth: {
+                '1': '1px'
             }
-        },
+        }
     },
     variants: {
         extend: {},

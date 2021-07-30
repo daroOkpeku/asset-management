@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#ayo{
+    background-color:white;
+    color:rgba(76, 0, 130, 0.733);
+    transition:ease-in-out 0.5s;
+}
+
+#ayo:hover{
+    color:white;
+    background-color: rgba(76, 0, 130, 0.712);
+}
